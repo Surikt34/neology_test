@@ -150,3 +150,5 @@ print(student_1 < student_2)
 average_grade_student([student_1, student_2], 'Python')
 print()
 average_grade_lecturer([lecturer_1, lecturer_2], 'Python')
+
+#изменения для Гита, ветвеление 
